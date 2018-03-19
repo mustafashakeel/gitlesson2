@@ -30,3 +30,7 @@ var coolArray = arrayMagic(array1, function(item){
 });
 
 coolArray;
+
+
+// change one 
+// change two
