@@ -34,5 +34,3 @@ coolArray;
 
 // change one 
 // change two
-// threeeeeee
-///////////////////////////////
