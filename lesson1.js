@@ -29,7 +29,9 @@ var coolArray = arrayMagic(array1, function(item){
 
 });
 
-coolArray;
+// coolArray;4
+
+//  these changes are on the Git Branches ---
 
 
 // change one 
