@@ -42,3 +42,7 @@ var coolArray = arrayMagic(array1, function(item){
 // 1
 // 2
 // 3
+5
+6
+6
+7
