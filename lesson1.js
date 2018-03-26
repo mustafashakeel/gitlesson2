@@ -40,3 +40,5 @@ var coolArray = arrayMagic(array1, function(item){
 ///////////////////////////////////////////
  // ************************************** //
 //  more merge issues will be observed
+
+ // anoter commit on branch
