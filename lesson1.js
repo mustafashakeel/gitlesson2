@@ -39,11 +39,4 @@ var coolArray = arrayMagic(array1, function(item){
 // changes four
 ///////////////////////////////////////////
  // ************************************** //
-<<<<<<< HEAD
- ///////////////////////////////////////////
-
- // this is another change 
- ///////////////////
-=======
- ///////////////////////////////////////////
->>>>>>> 605fcf9a2d0ad82fa6f6206dfdb8d48c56ead50e
+//  more merge issues will be observed
